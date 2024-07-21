@@ -8,7 +8,7 @@ image:
   repository: khaushik/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10029540809"
+  tag: "10029604520"
 
 ingress:
   enabled: false
